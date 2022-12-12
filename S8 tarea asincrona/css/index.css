@@ -1,0 +1,46 @@
+body{
+    background: #114357;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #F29492, #114357);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #F29492, #114357); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.logo{
+    text-align: center;
+    font-size: 3em;
+    color: rgb(146, 62, 62);
+    background: #114357;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #d34947, #0077a7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fff0f0, #96b8e5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#bloque1{
+    width: 600px;
+    height: 50px;
+}
+
+#bloque2{
+    width: 600px;
+    height: 50px;
+}
+
+#bloque3{
+    width: 600px;
+    height: 50px;
+}
+
+#bloque4{
+    width: 600px;
+    height: 50px;
+}
+
+.bloque{
+    text-align: center;
+}
+
+.bloqueespecial{
+    width: 600px;
+}
+
+.formulario{
+    text-align: center;
+}
